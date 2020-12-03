@@ -1,2 +1,7 @@
 # PruebadeClonacion
 Prueba de Clonacion
+
+
+ES UNA PRUEBA DE VER SI FUNCIONA LA CLONACCION 
+
+E INTERATUAR CON GIT
